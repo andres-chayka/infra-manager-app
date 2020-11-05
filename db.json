@@ -1,0 +1,53 @@
+{
+  "hosts": [
+    {
+      "name": "tkli-ekp-1",
+      "ip": "192.168.0.1",
+      "port": "8093",
+      "tags": [
+        "i20_uko, info"
+      ]
+    },
+    {
+      "name": "tkli-ekp-1",
+      "ip": "192.168.0.1",
+      "port": "8094",
+      "tags": [
+        "i20_uko, info"
+      ]
+    },
+    {
+      "name": "tkli-ekp-2",
+      "ip": "192.168.0.2",
+      "port": "8093",
+      "tags": [
+        "i20_uko, info"
+      ]
+    },
+    {
+      "name": "tkli-ekp-12",
+      "ip": "192.168.0.2",
+      "port": "8096",
+      "tags": [
+        "i20_uko, info"
+      ]
+    }
+  ],
+  "env": [
+    {
+      "name": "dev"
+    },
+    {
+      "name": "ift"
+    },
+    {
+      "name": "psi"
+    },
+    {
+      "name": "nt"
+    },
+    {
+      "name": "prom"
+    }
+  ]
+}
